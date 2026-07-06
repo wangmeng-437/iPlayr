@@ -2,16 +2,19 @@
   "spider": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
   "sites": [
     {
+     "key": "111",
       "type": 1,
       "name": "360|点播",
       "api": "https://360zy.com/api.php/provide/vod/"
     },
     {
+      "key": "222",
       "type": 1,
       "name": "旺旺|点播",
       "api": "https://api.wwzy.tv/api.php/provide/vod/"
     },
     {
+      "key": "333",
       "type": 1,
       "name": "墨斗|点播",
       "api": "https://www.mdzyapi.com/api.php/provide/vod/"
