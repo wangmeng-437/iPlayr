@@ -1,11 +1,11 @@
 {
-  "uuid":"e24b4542-ce5d-4625-b2cb-e40429945328",
+  "uuid": "e24b4542-ce5d-4625-b2cb-e40429945328",
   "sites": [
     {
       "type": 1,
       "name": "360|点播",
       "api": "https://360zy.com/api.php/provide/vod/"
-    }, 
+    },
     {
       "type": 1,
       "name": "旺旺|点播",
@@ -241,7 +241,6 @@
       "name": "在线之家",
       "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/zxzj.json"
     },
-    
     {
       "type": 8,
       "name": "厂长资源",
@@ -786,6 +785,6 @@
       "type": 8,
       "name": "hsex",
       "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/hsex.json"
-    },
+    }
   ]
 }
